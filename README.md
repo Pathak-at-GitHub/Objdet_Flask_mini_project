@@ -1,2 +1,3 @@
 # Objdet_Flask_mini_project
-flask project to detect yellow color on camera
+Flask project to detect yellow color on camera
+check the master branch
